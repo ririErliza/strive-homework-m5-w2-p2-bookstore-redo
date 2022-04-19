@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.BorderOn{
+  border: 6px solid orange;
+  
+}
+
+.BorderOff{
+  border: 1px solid grey;
+}
+
+.imageBook{
+  object-fit: cover;
+  height: 400px;
+  width: auto;
+}
+
+li{
+  list-style: none;;
+}
